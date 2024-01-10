@@ -40,7 +40,7 @@ export default function Home() {
         </div>
 
         <div className={styles.center}>
-          <h2>Welcom to &nbsp</h2>
+          <h2>Welcom to</h2>&nbsp
           <Image
             className={styles.logo}
             src="/next.svg"
